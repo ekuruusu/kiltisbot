@@ -1,4 +1,4 @@
-## kiltisbot
+# kiltisbot
 
 Telegram bot to fetch an image of the guildroom of Inkubio and post it to a chat
 
@@ -12,6 +12,6 @@ Usage:
 4. run "pip install python-telegram-bot --upgrade"
 5. run bot with "python3 kiltisbot.py"
 
-# kiltisbot - connecting people
+### kiltisbot - connecting people
 
 This fork will attempt to combine the existing kiltisbot features (quotes, webcam stalking) with the possibility to stalk another guildroom in Oulu (Otit). 
